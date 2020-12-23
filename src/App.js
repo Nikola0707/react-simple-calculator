@@ -1,8 +1,11 @@
-import {Calculator} from './components/Calculator'
+// import {Calculator} from './components/Calculator'
+import CalculatorFunctional from "./components/CalculatorFunctional";
+
 
 function App() {
   return (
-    <Calculator />
+    // <Calculator />
+    <CalculatorFunctional />
   );
 }
 
